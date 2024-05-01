@@ -1,0 +1,2 @@
+Class: 1 letra maiuscula e camelcase
+comando javac nomearquivo.java cria um nomearquivo.class
